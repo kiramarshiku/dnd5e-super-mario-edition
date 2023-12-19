@@ -9,8 +9,7 @@
   "description": "Additional content for Dnd5e including races,subraces,subclasses,etc based on the Super Mario series of games.",
   "authors": [
     {
-      "name": "Kyle Marshiku",
-      "flags": {}
+      "name": "Kyle Marshiku"
     }
   ],
   "packs": [
@@ -19,132 +18,124 @@
       "label": "Mario Actors",
       "path": "packs/mario-actors",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-backgrounds",
       "label": "Mario Backgrounds",
       "path": "packs/mario-backgrounds",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-classes",
       "label": "Mario Classes",
       "path": "packs/mario-classes",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-class-features",
       "label": "Mario Class Features",
       "path": "packs/mario-class-features",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-items",
       "label": "Mario Items",
       "path": "packs/mario-items",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-maps",
       "label": "Mario Maps",
       "path": "packs/mario-maps",
       "type": "Scene",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-species",
       "label": "Mario Species",
       "path": "packs/mario-species",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-species-features",
       "label": "Mario Species Features",
       "path": "packs/mario-species-features",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-spells",
       "label": "Mario Spells",
       "path": "packs/mario-spells",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-subclasses",
       "label": "Mario Subclasses",
       "path": "packs/mario-subclasses",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "mario-subspecies",
       "label": "Mario Subspecies",
       "path": "packs/mario-subspecies",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/kiramarshiku/dnd5e-super-mario-edition",
+  "manifest": "https://raw.githubusercontent.com/kiramarshiku/dnd5e-super-mario-edition/main/module.json?token=GHSAT0AAAAAACL2BHMVXHEWP5COAASKI6WYZMBZ6YA",
+  "download": "https://github.com/kiramarshiku/dnd5e-super-mario-edition/archive/refs/tags/v1.0.0.zip"
 }
