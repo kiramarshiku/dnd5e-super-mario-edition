@@ -136,6 +136,6 @@
     }
   ],
   "url": "https://github.com/kiramarshiku/dnd5e-super-mario-edition",
-  "manifest": "https://raw.githubusercontent.com/kiramarshiku/dnd5e-super-mario-edition/main/module.json?token=GHSAT0AAAAAACL2BHMVXHEWP5COAASKI6WYZMBZ6YA",
+  "manifest": "https://raw.githubusercontent.com/kiramarshiku/dnd5e-super-mario-edition/main/module.json",
   "download": "https://github.com/kiramarshiku/dnd5e-super-mario-edition/archive/refs/tags/v1.0.0.zip"
 }
