@@ -1,7 +1,0 @@
-2023/12/19-13:42:34.657 3568 Recovering log #59
-2023/12/19-13:42:34.664 3568 Delete type=0 #59
-2023/12/19-13:42:34.664 3568 Delete type=3 #57
-2023/12/19-14:11:48.267 ac4 Level-0 table #64: started
-2023/12/19-14:11:48.267 ac4 Level-0 table #64: 0 bytes OK
-2023/12/19-14:11:48.271 ac4 Delete type=0 #62
-2023/12/19-14:11:48.289 ac4 Manual compaction at level-0 from '!items!I7uuoCLA5nGAU97R' @ 72057594037927935 : 1 .. '!items!I7uuoCLA5nGAU97R' @ 0 : 0; will stop at (end)

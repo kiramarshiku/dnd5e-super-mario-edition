@@ -1,7 +1,0 @@
-2023/12/19-13:42:34.727 26d4 Recovering log #16
-2023/12/19-13:42:34.733 26d4 Delete type=0 #16
-2023/12/19-13:42:34.733 26d4 Delete type=3 #14
-2023/12/19-14:11:48.416 ac4 Level-0 table #21: started
-2023/12/19-14:11:48.416 ac4 Level-0 table #21: 0 bytes OK
-2023/12/19-14:11:48.418 ac4 Delete type=0 #19
-2023/12/19-14:11:48.450 ac4 Manual compaction at level-0 from '!scenes!3mXmw9KgvYT7UIfp' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!KoQsemfJuA9egYWA.MAVRoC2Iwfud8SFQ.TOTnei7YVHS2l4sL' @ 0 : 0; will stop at (end)
