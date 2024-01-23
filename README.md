@@ -1,6 +1,6 @@
 This is a fan-made module meant for Dungeons and Dragons 5th Edition designed around the Super Mario series of games and media. It includes a module meant to be installed through the Foundry virtual table-top, along with a PDF file that goes over all of the content in the style of a DnD book.
 
-To install the module manually into Foundry, downliad the .zip file and extract it to the modules folder in user data. To install it into Foundry via hyperlink, do the following
+To install the module manually into Foundry, download the .zip file and extract it to the modules folder in user data. To install it into Foundry via hyperlink, do the following
 
 1.	In Foundry, go to the add-on module tab.
 2.	Click Install Module.
