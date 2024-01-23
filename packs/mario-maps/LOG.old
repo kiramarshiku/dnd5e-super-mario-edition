@@ -1,0 +1,14 @@
+2024/01/22-10:47:44.767 3c04 Recovering log #30
+2024/01/22-10:47:44.773 3c04 Delete type=0 #30
+2024/01/22-10:47:44.773 3c04 Delete type=3 #28
+2024/01/22-16:29:05.664 498 Level-0 table #35: started
+2024/01/22-16:29:05.668 498 Level-0 table #35: 9556 bytes OK
+2024/01/22-16:29:05.670 498 Delete type=0 #33
+2024/01/22-16:29:05.713 498 Manual compaction at level-0 from '!scenes!7Tfp3NkcdOjRLPd3' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!XVpDKDmFRVoZLnqt.MAVRoC2Iwfud8SFQ.TOTnei7YVHS2l4sL' @ 0 : 0; will stop at '!scenes.tokens.delta!XVpDKDmFRVoZLnqt.MAVRoC2Iwfud8SFQ.TOTnei7YVHS2l4sL' @ 44 : 1
+2024/01/22-16:29:05.713 498 Compacting 1@0 + 1@1 files
+2024/01/22-16:29:05.720 498 Generated table #36@0: 12 keys, 5060 bytes
+2024/01/22-16:29:05.720 498 Compacted 1@0 + 1@1 files => 5060 bytes
+2024/01/22-16:29:05.724 498 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/22-16:29:05.724 498 Delete type=2 #13
+2024/01/22-16:29:05.724 498 Delete type=2 #35
+2024/01/22-16:29:05.728 498 Manual compaction at level-0 from '!scenes.tokens.delta!XVpDKDmFRVoZLnqt.MAVRoC2Iwfud8SFQ.TOTnei7YVHS2l4sL' @ 44 : 1 .. '!scenes.tokens.delta!XVpDKDmFRVoZLnqt.MAVRoC2Iwfud8SFQ.TOTnei7YVHS2l4sL' @ 0 : 0; will stop at (end)
